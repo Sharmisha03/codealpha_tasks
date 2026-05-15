@@ -64,5 +64,17 @@ Enter a letter: x
 
 ---
 
+## 📷 Output Screenshots
+
+### 🟢 Win Case
+![Win Output](https://github.com/user-attachments/assets/26a5670e-5ad5-4c47-8702-46376fa19552)
+
+### 🔴 Loss Case
+![Loss Output 1](https://github.com/user-attachments/assets/7203f92d-f53e-44a1-a8a2-658934812010)
+
+![Loss Output 2](https://github.com/user-attachments/assets/83f1e744-edb4-411e-8bd6-24b604509fd1)
+
+---
+
 ## 👨‍💻 Author
 Bongoni Sharmisha
