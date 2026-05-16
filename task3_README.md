@@ -29,7 +29,7 @@ It interacts with the user by responding to common inputs such as greetings, que
 3. Run:
 
 ```
-py task3_chatbot.py
+py task3_basic_chatbot.py
 ```
 
 ---
