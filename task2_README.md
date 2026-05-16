@@ -30,7 +30,7 @@ It allows the user to input stock names and quantities, calculates total investm
 2. Run:
 
 ```
-py task2_stock_tracker.py
+py task2_stock_portfolio_tracker.py
 ```
 
 ---
